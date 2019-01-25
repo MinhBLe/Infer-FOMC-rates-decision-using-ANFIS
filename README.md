@@ -1,6 +1,7 @@
 # Infer-FOMC-rates-decision-using-ANFIS
 
 Preamble
+
 Many Machine Learning techniques, especially Deep ML, are very good to classify/recognize data petterns, their limited interpretibility is a ney weakness in creating Expert Systems. It is highly desirable in such systems to know what rules are being used in order to know what rules need to be added. The rules are implemenetd not only to match historical data, but to set policies, including special ones like safety, conservatism, legal etc. This project is an example in such direction.
 
 Domain Background

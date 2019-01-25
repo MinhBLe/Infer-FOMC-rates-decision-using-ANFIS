@@ -1,8 +1,7 @@
 # Infer-FOMC-rates-decision-using-ANFIS
-Use Adaptive Fuzzy Inference Neural Network and Fuzzy Decision Treeto infer FED rates decision rules
 
-# Infer-FOMC-rates-decision-using-ANFIS
-Use Adaptive Fuzzy Inference Neural Network and Fuzzy Decision Treeto infer FED rates decision rules
+Preamble
+Many Machine Learning techniques, especially Deep ML, are very good to classify/recognize data petterns, their limited interpretibility is a ney weakness in creating Expert Systems. It is highly desirable in such systems to know what rules are being used in order to know what rules need to be added. The rules are implemenetd not only to match historical data, but to set policies, including special ones like safety, conservatism, legal etc. This project is an example in such direction.
 
 Domain Background
 The federal funds rate is the interest rate at which depository institutions lend balances at the Federal Reserve (FED) to other depository institutions overnight. Changes in the federal funds rate trigger a chain of events that affect other short-term interest rates, foreign exchange rates, long-term interest rates, the amount of money and credit, and, ultimately, a range of economic variables, including employment, output, and prices of goods and services 1. This is one of the tools available to the FED to influence the availability and cost of money and credit to help promote national economic goals. The FED is supposed to arrive at interest rate decisions after considering many financial economic data and models. The decision is usually made with voting at quarterly FOMC (Federal Open Market Committee) meetings. Emergency decisions are rare but possible, which happened in 2008-2009 financial crisis.

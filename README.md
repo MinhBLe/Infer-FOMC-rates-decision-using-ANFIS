@@ -14,12 +14,16 @@ Despite its paramount importance, it is not clear how these decisions are made. 
 Having rules closer to actual FED rates would be helpful. Furthermore, financial models have limited interpretation on the decision process. I propose using Adaptive fuzzy inference neural network as an alternative approach. Observable FED rates decision is modeled by changes in effective FED fund rates. Input data include common cited series, such as Inflation CPI/Income-change, Unemployment rate, GDP and SP500. Fuzzy logic membership functions will be Gaussian-shape.
 
 Datasets and Inputs
+
 FED target rates since 1990:
 http://www.fedprimerate.com/fedfundsrate/federal_funds_rate_history.htm
+
 Fed Funds Rate History with Its Highs, Lows and Chart:
 https://www.thebalance.com/fed-funds-rate-history-highs-lows-3306135
+
 FRED effective FED Funds Rate:
 https://fred.stlouisfed.org/series/FEDFUNDS
+
 NY FED Federal Funds Data:
 https://apps.newyorkfed.org/markets/autorates/fed%20funds
 
